@@ -9,7 +9,7 @@ To activate the virtual environment *myenv*
 
 Then, to be able to run the notebook inside the virtual environment, let's install jupyter:
 
-    pip install notebook ipkernel
+    pip install notebook ipykernel
 
 Add the virtual environment as a Jupyter kernel
 
