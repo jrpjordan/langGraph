@@ -13,7 +13,7 @@ Then, to be able to run the notebook inside the virtual environment, let's insta
 
 Add the virtual environment as a Jupyter kernel
 
-    python -m ipkernel install --user --name=myenv --display-name "Python (myenv)"
+    python -m ipykernel install --user --name=myenv --display-name "Python (myenv)"
 
 Start the jupyter Notebook by:
 
